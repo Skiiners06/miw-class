@@ -1,3 +1,7 @@
 .tools li {
-    font-size: 20px;
+    font-size: 16px;
+}
+
+.promo-2020,.promo-2018,.promo-2013 {
+    display:none;
 }
