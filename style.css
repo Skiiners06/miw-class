@@ -141,7 +141,10 @@ header h1 {
 }
 
 footer.footer {
-    width: 100%;
+    display: flex;
+    width: 80%;
+    text-align: center;
+    flex-direction: column;
 }
 
 
