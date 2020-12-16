@@ -25,14 +25,14 @@ li {
 /* Cible les li impaire :  */
 
 .promo-2021 li:nth-child(odd) {
-    background-color: red;
+    background-color: #a51263;
     margin-top: 40px;
 }
 
 /* Cible les li pair :*/
 
 .promo-2021 li:nth-child(even) {
-    background-color: blue;
+    background-color: #225687;
     margin-top: 40px;
 }
 
