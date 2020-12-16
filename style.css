@@ -5,3 +5,37 @@
 .promo-2020,.promo-2018,.promo-2013 {
     display:none;
 }
+
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.promo-2021 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+/* Cible les li impaire :  */
+
+.promo-2021 li:nth-child(odd) {
+    background-color: red;
+    margin-top: 40px;
+}
+
+/* Cible les li pair :*/
+
+.promo-2021 li:nth-child(even) {
+    background-color: blue;
+    margin-top: 40px;
+}
+
+
+
+
