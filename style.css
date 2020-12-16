@@ -60,6 +60,10 @@ img{
                FIN RESET CSS
  ********************************************/
 
+a:link
+{
+    text-decoration:none;
+}
 
 .tools li {
     font-size: 16px;
@@ -84,6 +88,16 @@ img{
 li {
     list-style-type: none;
 }
+
+.promo-2021 li {
+    color: white;
+}
+
+.networks_links li a {
+    color: white;
+}
+
+
 
 /* Cible les li impaire :  */
 
