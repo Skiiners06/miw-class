@@ -156,7 +156,12 @@ footer.footer {
 .teachers li{
     background-color: #225687;
     margin-top: 40px;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+
 }
+
 
 .footer a{
     color:white;
