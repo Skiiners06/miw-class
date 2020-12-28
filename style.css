@@ -119,24 +119,6 @@ li {
     margin-top: 40px;
 }
 
-
-
-/* Cible les li impaire :
-
-.promo-2021 li:nth-child(odd) {
-    background-color: #a51263;
-    margin-top: 40px;
-}
-
-/* Cible les li pair :
-
-.promo-2021 li:nth-child(even) {
-    background-color: #225687;
-    margin-top: 40px;
-}
-*/
-
-
 .promo-2021>h2 {
     background-color: #225687;
     padding: 1em;
@@ -171,23 +153,19 @@ footer.footer {
 }
 
 
-/*Cible les li impaire :
+/*Cible les li impaire : */
 
 .teachers li:nth-child(odd) {
     background-color: #a51263;
     margin-top: 40px;
 }
 
-// Cible les li pair :
+/* Cible les li pair : */
 
 .teachers li:nth-child(even) {
     background-color: #225687;
     margin-top: 40px;
 }
-
-*/
-
-
 
 .footer a{
     color:white;
