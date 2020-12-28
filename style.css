@@ -149,7 +149,8 @@ footer.footer {
     justify-content: center;
     background-color:#225687;
     color:white;
-    margin-bottom: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 
