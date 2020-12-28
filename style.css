@@ -103,21 +103,39 @@ li {
     color: white;
 }
 
+ /* Start by 1, 3, 5 */
+[data-deskcoordinate^="1"],
+[data-deskcoordinate^="3"],
+[data-deskcoordinate^="5"]
+{
+   background-color: #a51263;
+   margin-top: 40px;
+}
+
+[data-deskcoordinate^="2"],
+[data-deskcoordinate^="4"]
+{
+    background-color: #225687;
+    margin-top: 40px;
+}
 
 
-/* Cible les li impaire :  */
+
+/* Cible les li impaire :
 
 .promo-2021 li:nth-child(odd) {
     background-color: #a51263;
     margin-top: 40px;
 }
 
-/* Cible les li pair :*/
+/* Cible les li pair :
 
 .promo-2021 li:nth-child(even) {
     background-color: #225687;
     margin-top: 40px;
 }
+*/
+
 
 .promo-2021>h2 {
     background-color: #225687;
@@ -152,21 +170,30 @@ footer.footer {
     margin-bottom: 30px;
 }
 
-/* Cible les li impaire :  */
+
+/*Cible les li impaire :
 
 .teachers li:nth-child(odd) {
     background-color: #a51263;
     margin-top: 40px;
 }
 
-/* Cible les li pair :*/
+// Cible les li pair :
 
 .teachers li:nth-child(even) {
     background-color: #225687;
     margin-top: 40px;
 }
 
+*/
+
+
+
 .footer a{
     color:white;
     text-decoration: underline;
+}
+
+ul.networks_links {
+    padding: 1em;
 }
