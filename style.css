@@ -153,16 +153,7 @@ footer.footer {
 }
 
 
-/*Cible les li impaire : */
-
-.teachers li:nth-child(odd) {
-    background-color: #a51263;
-    margin-top: 40px;
-}
-
-/* Cible les li pair : */
-
-.teachers li:nth-child(even) {
+.teachers li{
     background-color: #225687;
     margin-top: 40px;
 }
