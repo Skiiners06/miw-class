@@ -60,6 +60,11 @@ img{
 /********************************************
                FIN RESET CSS
  ********************************************/
+:root{
+    --violet:#a51263;
+    --bleue:#225687;
+}
+
 
 a:link
 {
@@ -108,19 +113,19 @@ li {
 [data-deskcoordinate^="3"],
 [data-deskcoordinate^="5"]
 {
-   background-color: #a51263;
+   background-color: var(--violet);
    margin-top: 40px;
 }
 
 [data-deskcoordinate^="2"],
 [data-deskcoordinate^="4"]
 {
-    background-color: #225687;
+    background-color: var(--bleue);
     margin-top: 40px;
 }
 
 .promo-2021>h2 {
-    background-color: #225687;
+    background-color: var(--bleue);
     padding: 1em;
     color: white;
 }
@@ -147,7 +152,7 @@ footer.footer {
     text-align: center;
     flex-direction: column;
     justify-content: center;
-    background-color:#225687;
+    background-color: var(--bleue);
     color:white;
     padding-bottom: 20px;
     padding-top: 20px;
@@ -155,7 +160,7 @@ footer.footer {
 
 
 .teachers li{
-    background-color: #225687;
+    background-color: var(--bleue);
     margin-top: 40px;
     color: white;
     text-align: center;
@@ -204,5 +209,11 @@ ul.networks_links {
 
     .teachers>ul {
         text-align: center;
+    }
+
+    .button {
+        background-color: var(--violet);
+        padding: 0.8em;
+        color: white;
     }
 }
