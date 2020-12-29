@@ -269,6 +269,13 @@ ul.networks_links {
         color: white;
     }
 
+    footer.footer{
+        padding-top: 50px;
+        font-size: 18px;
+        word-spacing: 5px;
+        line-height: 35px;
+    }
+
 
 }
 
