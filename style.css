@@ -250,8 +250,12 @@ ul.networks_links {
         }
     }
 
-    classroom > ul > li:hover, .teachers > ul > li:hover {
+    .classroom > ul > li:hover {
         animation: bounce 1s;
     }
 
+    .teachers > ul > li:hover{
+        animation: bounce 1s;
+
+    }
 }
