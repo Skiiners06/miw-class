@@ -322,7 +322,7 @@ ul.networks_links {
         color: black;
     }
 
-    ul .teaching{
+    ul .teaching>li{
         color:black;
     }
 
