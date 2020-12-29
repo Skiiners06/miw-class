@@ -271,3 +271,40 @@ ul.networks_links {
 
 
 }
+
+@media print{
+
+    .classroom > ul > li, .teachers > ul > li {
+        width: 20%;
+        display: inline-block;
+    }
+
+    .promo-2021{
+        display:block;
+    }
+
+    .classroom h2{
+        display:inline-flex;
+        padding-left:10px;
+        align-items: center;
+    }
+
+
+    .classroom img, .teachers img {
+        width: 100%;
+        height: auto;
+    }
+
+    .page-wrapper {
+        width: 100%;
+        display: block;
+    }
+
+    .teachers>ul {
+        text-align: center;
+    }
+
+    a{
+        display:none;
+    }
+}
