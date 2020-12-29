@@ -201,4 +201,8 @@ ul.networks_links {
         width: 100%;
         display: block;
     }
+
+    .teachers>ul {
+        text-align: center;
+    }
 }
