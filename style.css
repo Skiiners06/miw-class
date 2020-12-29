@@ -226,6 +226,7 @@ ul.networks_links {
         background-color: var(--violet);
         opacity: 80%;
         color:black;
+        padding:1em;
 
     }
 
