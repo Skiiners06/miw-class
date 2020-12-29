@@ -174,7 +174,11 @@ ul.networks_links {
 }
 
 
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
+
+    .classroom > ul > li, .teachers > ul > li {
+        width: 20%;
+    }
 
     .promo-2021{
         display:block;
@@ -188,5 +192,10 @@ ul.networks_links {
 
     .promo-2021 li{
         display: inline-block;
+    }
+
+    .classroom img, .teachers img {
+        width: 100%;
+        height: auto;
     }
 }
