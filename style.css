@@ -223,9 +223,9 @@ ul.networks_links {
     }
 
     .button:hover{
-        background-color: var(--violet);
+        background-color: var(--bleue);
         opacity: 80%;
-        color:black;
+        color:white;
         padding:1em;
         border-radius: 5px;
 
