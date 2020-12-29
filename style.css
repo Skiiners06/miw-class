@@ -305,7 +305,7 @@ ul.networks_links {
     }
 
     a, footer{
-        display:none;
+        display:none !important;
     }
 
     h4{
