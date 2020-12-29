@@ -178,6 +178,7 @@ ul.networks_links {
 
     .classroom > ul > li, .teachers > ul > li {
         width: 20%;
+        display: inline-block;
     }
 
     .promo-2021{
