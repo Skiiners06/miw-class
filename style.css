@@ -216,4 +216,17 @@ ul.networks_links {
         padding: 0.8em;
         color: white;
     }
+
+    .tools>ul {
+        text-align: right;
+        margin-right: 20px;
+    }
+
+    .button:hover{
+        background-color: var(--violet);
+        opacity: 80%;
+        color:black;
+
+    }
+
 }
