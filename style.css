@@ -175,9 +175,15 @@ ul.networks_links {
 
 
 @media (min-width: 768px) {
-    .promo-2021>h2{
-        width: 30%;
-        align-self: center;
+
+    .promo-2021{
+        display:block;
+    }
+
+    h2{
+        display:inline-flex;
+        padding-left:10px;
+        align-items: center;
     }
 
     .promo-2021 li{
