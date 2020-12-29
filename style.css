@@ -227,6 +227,7 @@ ul.networks_links {
         opacity: 80%;
         color:black;
         padding:1em;
+        border-radius: 5px;
 
     }
 
