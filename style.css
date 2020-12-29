@@ -287,6 +287,7 @@ ul.networks_links {
         display:inline-flex;
         padding-left:10px;
         align-items: center;
+        color:black;
     }
 
 
@@ -310,6 +311,15 @@ ul.networks_links {
 
     h4{
         color:black;
+    }
+
+    section.teachers h2{
+        text-align: center;
+        width: 70%;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        color: black;
     }
 
 }
