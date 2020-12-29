@@ -190,7 +190,7 @@ ul.networks_links {
         display:block;
     }
 
-    h2{
+    .classroom h2{
         display:inline-flex;
         padding-left:10px;
         align-items: center;
@@ -258,4 +258,6 @@ ul.networks_links {
         animation: bounce 1s;
 
     }
+
+
 }
