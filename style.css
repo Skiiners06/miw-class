@@ -256,7 +256,12 @@ ul.networks_links {
 
     .teachers > ul > li:hover{
         animation: bounce 1s;
+    }
 
+    section.teachers h2{
+        text-align: center;
+        padding:1em;
+        background: var(--violet);
     }
 
 
