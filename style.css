@@ -304,7 +304,12 @@ ul.networks_links {
         text-align: center;
     }
 
-    a{
+    a, .footer{
         display:none;
     }
+
+    h4{
+        color:black;
+    }
+
 }
