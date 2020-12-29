@@ -261,7 +261,7 @@ ul.networks_links {
     section.teachers h2{
         text-align: center;
         padding:1em;
-        background: linear-gradient(var(--violet), var(--bleue));
+        background: linear-gradient(var(--bleue), var(--violet));
         width: 70%;
         margin-top: 40px;
         margin-left: auto;
