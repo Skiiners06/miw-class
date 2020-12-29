@@ -196,4 +196,9 @@ ul.networks_links {
         width: 100%;
         height: auto;
     }
+
+    .page-wrapper {
+        width: 100%;
+        display: block;
+    }
 }
