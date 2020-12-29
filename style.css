@@ -172,3 +172,15 @@ footer.footer {
 ul.networks_links {
     padding: 1em;
 }
+
+
+@media (min-width: 768px) {
+    .promo-2021>h2{
+        width: 30%;
+        align-self: center;
+    }
+
+    .promo-2021 li{
+        display: inline-block;
+    }
+}
