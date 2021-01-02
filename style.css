@@ -147,7 +147,7 @@ header h1 {
 .classroom ul, .teachers ul {
     display: flex;
     flex-flow: wrap;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -192,6 +192,7 @@ ul.networks_links {
     .classroom > ul > li, .teachers > ul > li {
         width: 20%;
         display: inline-block;
+        padding: 0.5em;
     }
 
     .promo-2021{
