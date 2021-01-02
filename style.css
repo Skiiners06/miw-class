@@ -185,6 +185,8 @@ footer.footer {
 
 ul.networks_links {
     padding: 1em;
+    display: flex;
+    flex-direction: column;
 }
 
 
