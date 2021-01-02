@@ -277,7 +277,7 @@ ul.networks_links {
     }
 
     .networks_links li a :hover {
-        background-color:red;
+        color:red;
     }
 
 
