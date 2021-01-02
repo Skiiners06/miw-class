@@ -276,8 +276,8 @@ ul.networks_links {
         line-height: 35px;
     }
 
-    .networks_links li a :hover {
-        color:red;
+    .networks_links li a:hover {
+        color:black;
     }
 
 
