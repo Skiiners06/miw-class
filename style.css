@@ -149,6 +149,7 @@ header h1 {
     flex-flow: wrap;
     margin: 0 auto;
     padding: 0;
+    justify-content: center;
 }
 
 footer.footer {
