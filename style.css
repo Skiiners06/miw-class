@@ -364,3 +364,13 @@ ul.networks_links {
     }
 
 }
+
+@media (prefers-color-scheme: dark) {
+
+    body {
+        background-color : #1c1c1e ;
+    }
+
+}
+
+
