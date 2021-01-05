@@ -9,4 +9,4 @@ le but était de modifier l'apparence d'une page web, en modifiant seulement le 
           
 **Voici le résultat : **
 
-<img src="imgExemple/final.png">
+<img src="imgExemple/Final.png" width="80%">
