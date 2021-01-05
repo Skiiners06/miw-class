@@ -1,6 +1,8 @@
 # miw-class
 
-le but était de modifier l'apparence d'une page web, en modifiant seulement le css : 
+le but de cet éxercice était de modifier l'apparence d'une page web, en modifiant seulement le css : 
+
+Cette page web est responsive (mobile first)
 
 
 **Voici le lien du résultat final :**
