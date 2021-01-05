@@ -4,7 +4,7 @@ le but était de modifier l'apparence d'une page web, en modifiant seulement le 
 
 **Voici la page web de départ :**
 
-<img src="imgExemple/base.png">
+<img src="imgExemple/Base.png" width="80%">
           
           
 **Voici le résultat : **
